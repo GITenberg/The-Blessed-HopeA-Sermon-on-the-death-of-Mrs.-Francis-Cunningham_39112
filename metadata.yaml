@@ -1,0 +1,28 @@
+_repo: The-Blessed-HopeA-Sermon-on-the-death-of-Mrs.-Francis-Cunningham_39112
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hoare, Edward
+    birthdate: 1812
+    deathdate: 1894
+    gutenberg_agent_id: '39940'
+    url: http://www.gutenberg.org/2009/agents/39940
+description: ''
+gutenberg_issued: '2012-03-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39112'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sermons, English -- 19th century'
+- !lcsh 'Cunningham, Francis, Mrs., -1855 -- Death and burial -- Sermons'
+- !lcc 'BV'
+- !lcsh 'Funeral sermons'
+title: 'The Blessed Hope: A Sermon on the Death of Mrs. Francis Cunningham'
+url: http://www.gutenberg.org/ebooks/39112
